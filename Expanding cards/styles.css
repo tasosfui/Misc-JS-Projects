@@ -28,7 +28,6 @@ body {
   cursor: pointer;
   color: #fff;
   flex: 0.5;
-  /* remove it */
   position: relative;
   transition: flex 0.7s ease-in;
   overflow: hidden;
